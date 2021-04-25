@@ -1,0 +1,41 @@
+*{
+margin: 0;
+padding: 0;
+}
+header{
+	background-color: black;
+	font-size: 14px;
+
+}
+#boton1{
+	width:100px;
+	height: 30px;
+	font-family: calibri;
+	background-color: #24B104;
+	color: white;
+	border: none;
+	border-radius:5px;
+
+}
+
+#boton2{
+	width:100px;
+	height: 30px;
+	font-family: calibri;
+	background-color: #2C3E50 ;
+	color: white;
+	border: none;
+	border-radius:5px;
+
+}
+
+#contador{
+	font-size: 15px;
+	font-family: calibri;
+
+}
+
+.imagenes{
+	display:block;
+margin:auto;
+}
